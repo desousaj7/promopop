@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79269541685",
+    "firebase_url": "https://promopop-b630b.firebaseio.com",
+    "project_id": "promopop-b630b",
+    "storage_bucket": "promopop-b630b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79269541685:android:57cd30cacbffc4fc",
+        "android_client_info": {
+          "package_name": "com.example.jhonnysousa.promopop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79269541685-agog4i04ekvnbf5qt65kh1241qddolon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhonnysousa.promopop2",
+            "certificate_hash": "d98f9610d52bb18939f58356955c959d37399840"
+          }
+        },
+        {
+          "client_id": "79269541685-f8a6jgcmkpuganuub4i8egr3oqiet8hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxeLoc92DH3UQIDf61lYDOdrqc6Sr4A8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79269541685-f8a6jgcmkpuganuub4i8egr3oqiet8hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
